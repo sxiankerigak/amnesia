@@ -1,4 +1,4 @@
-FROM quay.io/novalanto0101/tensor
+FROM gcr.io/deeplearning-platform-release/tf2-cpu.2-1
 WORKDIR /
 # Installs hypertune library
 RUN pip install cloudml-hypertune
